@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <script
+      src="https://kit.fontawesome.com/62a41216fa.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+      integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+    <title>HealthCare</title>
+  </head>
+
+  <body>
+    <a href="#" class="scrolltop" id="scroll-top">
+      <i class="bx bx-chevron-up scrolltop__icon"></i>
+    </a>
+
+    <header class="header">
+      <nav class="nav h-container">
+        <div class="nav__data">
+          <a href="index.html" class="nav__logo">
+            <img src="assets/images/logo512.png" class="menu-icon" />
+          </a>
+
+          <div class="nav__toggle" id="nav-toggle">
+            <i class="ri-menu-line nav__burger"></i>
+            <i class="ri-close-line nav__close"></i>
+          </div>
+        </div>
+
+        <div class="nav__menu" id="nav-menu">
+          <ul class="nav__list">
+            <li><a href="#" class="nav__link">Home</a></li>
+
+            <li><a href="#" class="nav__link">About Us</a></li>
+
+            <li class="dropdown__item">
+              <div class="nav__link">
+                Services <i class="ri-arrow-down-s-line dropdown__arrow"></i>
+              </div>
+
+              <ul class="dropdown__menu">
+                <li>
+                  <a href="#" class="dropdown__link"> Services </a>
+                </li>
+
+                <li>
+                  <a href="#" class="dropdown__link"> Services </a>
+                </li>
+
+                <li>
+                  <a href="#" class="dropdown__link"> Services </a>
+                </li>
+
+                <li>
+                  <a href="#" class="dropdown__link"> Services </a>
+                </li>
+              </ul>
+            </li>
+
+            <li class="dropdown__item">
+              <div class="nav__link">
+                NDIS <i class="ri-arrow-down-s-line dropdown__arrow"></i>
+              </div>
+
+              <ul class="dropdown__menu">
+                <li>
+                  <a href="#" class="dropdown__link"> Services </a>
+                </li>
+
+                <li>
+                  <a href="#" class="dropdown__link"> Services </a>
+                </li>
+
+                <li>
+                  <a href="#" class="dropdown__link"> Services </a>
+                </li>
+
+                <li>
+                  <a href="#" class="dropdown__link"> Services </a>
+                </li>
+              </ul>
+            </li>
+
+            <li><a href="#" class="nav__link">Reviews</a></li>
+
+            <li>
+              <a href="./contactpage.html" class="home__button">Contact us</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="h-container">
+        <div class="about-head">
+          <h1 class="about_title">Who we are</h1>
+        </div>
+        <p class="lead">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
+          corporis amet cum. Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cum similique corporis distinctio.
+        </p>
+        <p class="lead">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
+          corporis amet cum. Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cum similique corporis distinctio.
+        </p>
+        <p class="lead">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
+          corporis amet cum. Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Cum similique corporis distinctio.Lorem ipsum dolor sit amet,
+          consectetur adipisicing elit. Similique corporis amet cum.
+        </p>
+
+        <p class="lead">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum similique
+          corporis distinctio.Lorem ipsum dolor sit amet, consectetur
+          adipisicing elit. Similique corporis amet cum. Lorem ipsum dolor sit
+          amet consectetur adipisicing elit. Cum similique corporis distinctio.
+        </p>
+      </section>
+
+      <section class="h-container about-us-1 grid5">
+        <div class="about-content9 bd-grid">
+          <div class="about-right-1 pj">
+            <div class="service">
+              <h1 class="a-left">Our Mission</h1>
+            </div>
+            <p class="lead" style="font-size: 16px; line-height: 1.9">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Similique corporis amet cum. Lorem ipsum dolor sit amet
+              consectetur adipisicing elit. Cum similique corporis distinctio.
+            </p>
+          </div>
+
+          <div class="about-left">
+            <div class="service">
+              <h1 class="a-left">Our Vision</h1>
+            </div>
+            <p class="lead" style="font-size: 16px; line-height: 1.9">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Similique corporis amet cum. Lorem ipsum dolor sit amet
+              consectetur adipisicing elit. Cum similique corporis distinctio.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="">
+        <div class="service" id="service">
+          <!-- <h5>SERVICES</h5> -->
+          <h1 class="a-left h-container">Our Values</h1>
+          <div class="details">
+            <div class="info">
+              <div class="logo"><i class="fas fa-book-reader"></i></div>
+              <p id="head">What we do</p>
+              <p>
+                We help empower underprivileged children with quality education.
+              </p>
+            </div>
+
+            <div class="info" data-aos="fade-up">
+              <div class="logo"><i class="fas fa-book-open"></i></div>
+              <p id="head">How we do it</p>
+              <p>
+                We helps these children continue their education through digital
+                initiatives.
+              </p>
+            </div>
+
+            <div class="info">
+              <div class="logo"><i class="fas fa-book"></i></div>
+              <p id="head">Make a difference</p>
+              <p>
+                ₹ 3,000 can help a child build a life and add wings to their
+                dreams
+              </p>
+            </div>
+
+            <!-- <div class="info">
+                        <div class="logo"><i class="fas fa-chart-line"></i></div>
+                        <p id="head">Lives benefitted so far</p>
+                        <p>
+                            Over 50k+ children have benefitted so far with thousands more to
+                            go
+                        </p>
+                    </div> -->
+          </div>
+
+          <div class="details">
+            <div class="info">
+              <div class="logo"><i class="fas fa-book-reader"></i></div>
+              <p id="head">What we do</p>
+              <p>
+                We help empower underprivileged children with quality education.
+              </p>
+            </div>
+
+            <div class="info" data-aos="fade-up">
+              <div class="logo"><i class="fas fa-book-open"></i></div>
+              <p id="head">How we do it</p>
+              <p>
+                We helps these children continue their education through digital
+                initiatives.
+              </p>
+            </div>
+
+            <div class="info">
+              <div class="logo"><i class="fas fa-book"></i></div>
+              <p id="head">Make a difference</p>
+              <p>
+                ₹ 3,000 can help a child build a life and add wings to their
+                dreams
+              </p>
+            </div>
+
+            <!-- <div class="info">
+                        <div class="logo"><i class="fas fa-chart-line"></i></div>
+                        <p id="head">Lives benefitted so far</p>
+                        <p>
+                            Over 50k+ children have benefitted so far with thousands more to
+                            go
+                        </p>
+                    </div> -->
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="f-container">
+        <div class="sec aboutus">
+          <h2>About Us</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Repellendus eveniet dolorem a vitae, nam corrupti odio doloribus
+            itaque, ducimus reiciendis nobis quis aut expedita, harum temporibus
+            laudantium corporis libero ea.
+          </p>
+          <ul class="sci">
+            <li><a href="" class="fab fa-facebook"></a></li>
+            <li><a href="" class="fab fa-instagram"></a></li>
+            <li><a href="" class="fab fa-linkedin"></a></li>
+            <li><a href="" class="fab fa-twitter"></a></li>
+            <li><a href="" class="fab fa-youtube"></a></li>
+            <li>
+              <a href=""
+                ><img class="ndis" src="assets/images/ndis.png.webp" alt=""
+              /></a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="sec quickLinks">
+          <h2>Quick Links</h2>
+          <ul>
+            <li>
+              <a href="index.html"><i class="fas fa-home"></i> Home</a>
+            </li>
+            <li>
+              <a href=""><i class="ri-group-fill"></i> About Us</a>
+            </li>
+            <li>
+              <a href=""><i class="ri-donut-chart-fill"></i> Services</a>
+            </li>
+            <li>
+              <a href=""><i class="ri-speak-fill"></i> Testimonials</a>
+            </li>
+            <li>
+              <a href=""><i class="fa-solid fa-message"></i> Contact</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="sec contact">
+          <h2>Contact Info</h2>
+          <ul class="info">
+            <li>
+              <span><i class="fas fa-map-marker-alt"></i></span>
+              <span>Melbourne, Victoria</span>
+            </li>
+            <li>
+              <span><i class="fas fa-phone-alt"></i></span>
+              <span>
+                <p><a href="tel:#">+91 123456789</a></p>
+              </span>
+            </li>
+            <li>
+              <span><i class="far fa-envelope"></i></span>
+              <span>
+                <p><a href="mailto:#">mail@mail.com</a></p>
+              </span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="flags">
+        <center>
+          <img src="assets/images/aboriginalflag.jpg.webp" class="f-img" />
+          <img
+            src="assets/images/toores-strait-islander-1.jpg.webp"
+            class="f-img"
+          />
+          <p>
+            Alliracare acknowledges the traditional owners of the land which we
+            live and work. We pay our respects to all Aboriginal and Torres
+            Strait Islander peoples and their elders past, present and future.
+            We welcome them all to our service.
+          </p>
+        </center>
+      </div>
+    </footer>
+  </body>
+</html>

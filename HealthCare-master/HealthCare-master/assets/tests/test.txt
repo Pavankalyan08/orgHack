@@ -1,0 +1,496 @@
+landing
+about
+why us?
+Disability support{could be anything}
+ndis call to action
+testimonials
+
+<!-- /* page structure for about*/ -->
+<!-- /* page structure for services*/ -->
+<!-- /* page structure for ndis*/ -->
+<!-- /* page structure for reviews*/ -->
+<!-- /* page structure for contact*/ -->
+
+
+
+
+SERVICES
+ACCOMMODATION ASSISTANCE
+COMMUNITY PARTICIPATION
+DAILY PERSONAL ACTIVITIES
+NURSING SERVICES
+DEVELOPMENT OF LIFE SKILLS
+EMPLOYMENT ASSISTANCE
+GROUP AND CENTERED BASED ACTIVITIES
+HOUSEHOLD TASKS
+LIFE STAGE TRANSITION
+TRAVEL AND TRANSPORT
+about page
+
+
+        background: #5ba27a;
+
+
+        <section class=" h-container about-us-1 grid5">
+            <div class="about-content9 bd-grid">
+                <div class="about-right-1 pj">
+                    <div class="service">
+                        <h1 class="a-left">Our Mission</h1>
+                    </div>
+                    <p class="lead" style="font-size: 16px; line-height: 1.9;">Lorem ipsum dolor sit amet, consectetur
+                        adipisicing elit. Similique corporis amet cum.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum similique corporis distinctio.
+                    </p>
+                </div>
+
+                <div class="about-left">
+                    <div class="service">
+                        <h1 class="a-left">Our Vision</h1>
+                    </div>
+                    <p class="lead" style="font-size: 16px; line-height: 1.9;">Lorem ipsum dolor sit amet, consectetur
+                        adipisicing elit. Similique corporis amet cum.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum similique corporis distinctio.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="">
+            <div class="service" id="service">
+                <!-- <h5>SERVICES</h5> -->
+                <h1 class="a-left h-container">Our Values</h1>
+                <div class="details">
+                    <div class="info">
+                        <div class="logo"><i class="fas fa-book-reader"></i></div>
+                        <p id="head">What we do</p>
+                        <p>
+                            We help empower underprivileged children with quality education.
+                        </p>
+                    </div>
+            
+                    <div class="info" data-aos="fade-up">
+                        <div class="logo"><i class="fas fa-book-open"></i></div>
+                        <p id="head">How we do it</p>
+                        <p>
+                            We helps these children continue their education through digital
+                            initiatives.
+                        </p>
+                    </div>
+            
+                    <div class="info">
+                        <div class="logo"><i class="fas fa-book"></i></div>
+                        <p id="head">Make a difference</p>
+                        <p>
+                            ₹ 3,000 can help a child build a life and add wings to their
+                            dreams
+                        </p>
+                    </div>
+            
+                    <!-- <div class="info">
+                        <div class="logo"><i class="fas fa-chart-line"></i></div>
+                        <p id="head">Lives benefitted so far</p>
+                        <p>
+                            Over 50k+ children have benefitted so far with thousands more to
+                            go
+                        </p>
+                    </div> -->
+                </div>
+
+                <div class="details">
+                    <div class="info">
+                        <div class="logo"><i class="fas fa-book-reader"></i></div>
+                        <p id="head">What we do</p>
+                        <p>
+                            We help empower underprivileged children with quality education.
+                        </p>
+                    </div>
+            
+                    <div class="info" data-aos="fade-up">
+                        <div class="logo"><i class="fas fa-book-open"></i></div>
+                        <p id="head">How we do it</p>
+                        <p>
+                            We helps these children continue their education through digital
+                            initiatives.
+                        </p>
+                    </div>
+            
+                    <div class="info">
+                        <div class="logo"><i class="fas fa-book"></i></div>
+                        <p id="head">Make a difference</p>
+                        <p>
+                            ₹ 3,000 can help a child build a life and add wings to their
+                            dreams
+                        </p>
+                    </div>
+            
+                    <!-- <div class="info">
+                        <div class="logo"><i class="fas fa-chart-line"></i></div>
+                        <p id="head">Lives benefitted so far</p>
+                        <p>
+                            Over 50k+ children have benefitted so far with thousands more to
+                            go
+                        </p>
+                    </div> -->
+                </div>
+            </div>
+        </section>
+
+        <div class="nav__menu" id="nav-menu">
+            <ul class="nav__list">
+                <li><a href="index.html" class="nav__link">Home</a></li>
+
+                <li><a href="aboutpage.html" class="nav__link">About Us</a></li>
+
+                <li class="dropdown__item">
+                    <div class="nav__link">
+                        <a href="services.html"> Services </a> <i class="ri-arrow-down-s-line dropdown__arrow"></i>
+                    </div>
+
+                    <ul class="dropdown__menu">
+                        <li>
+                            <a href="#" class="dropdown__link"> ACCOMMODATION ASSISTANCE </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="dropdown__link"> HOUSEHOLD TASKS </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="dropdown__link"> COMMUNITY PARTICIPATION </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="dropdown__link"> DAILY PERSONAL ACTIVITIES </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="dropdown__link"> DEVELOPMENT OF LIFE SKILLS </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="dropdown__link"> EMPLOYMENT ASSISTANCE </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="dropdown__link"> GROUP AND CENTERED BASED ACTIVITIES </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="dropdown__link"> LIFE STAGE TRANSITION </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="dropdown__link"> PRESONAL CARE </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="dropdown__link"> TRAVEL AND TRANSPORT </a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li><a href="reviews.html" class="nav__link">Reviews</a></li>
+
+                <li><a href="contactpage.html" class="home__button">Contact us</a></li>
+            </ul>
+        </div>
+
+        <section class="landing">
+            <div class="section__container1 header__container">
+                <div class="header__content">
+                    <h1>Disability and Mental Health Care Services.</h1>
+                    <p>
+                        Welcome, Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam exercitationem debitis esse eaque libero omnis.
+                        Vel eligendi suscipit ipsum facere, impedit cupiditate distinctio deleniti sunt. Tempore obcaecati numquam earum
+                        repudiandae.
+                    </p>
+                    <button class="btn">See Services</button>
+                </div>
+                <!-- <div class="header__form">
+                    <form>
+                        <h4>Book Now</h4>
+                        <input type="text" name="name" placeholder="First Name" required="required">
+                        <input type="text" name="name" placeholder="Last Name" required="required">
+                        <input type="number" name="Phone" placeholder="Phone" required="required">
+                        <input type="email" name="Email" placeholder="Email Address" required="required">
+                        <button class="btn form__btn">Book Appointment</button>
+                    </form>
+                </div> -->
+            </div>
+        </section>
+
+        <section class=" py-3 aboutcontent">
+            <div class="about-container">
+                <div class="about-content featured__body-1">
+                    <div class="about-left ">
+                        <h1>Our Mission and Vision?</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti maxime aut perspiciatis.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere laborum deserunt cupiditate
+                            distinctio!
+                        </p>
+                    </div>
+                    
+                    <div class="about-right">
+                        <img src="assets/images/HHD.webp" class="">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="h-container container">
+            <div class="service" id="service">
+                <h1 class="a-left">Our Values</h1>
+    
+                <div class="details">
+                    <div class="info">
+                        <div class="logo"><i class="fas fa-book"></i></div>
+                        <p id="head">innovation</p>
+                        <p>
+                            What we do, we do well and will always be evidence based. <br>
+                            Good work takes time, commitment and investment.
+                        </p>
+                    </div>
+    
+                    <div class="info">
+                        <div class="logo"><i class="fas fa-book-reader"></i></div>
+                        <p id="head">Safety</p>
+                        <p>
+                            Comes first, last and always. <br>
+                            Nothing is too important that we can’t do it safely.
+                        </p>
+                    </div>
+    
+                    <div class="info" data-aos="fade-up">
+                        <div class="logo"><i class="fas fa-book-open"></i></div>
+                        <p id="head">Integrity</p>
+                        <p>
+                            How we treat other people matters. <br>
+                            We are honest with each other and in the work that we do.
+                        </p>
+                    </div>
+                </div>
+    
+                <div class="details">
+                    <div class="info">
+                        <div class="logo"><i class="fas fa-book"></i></div>
+                        <p id="head">Humanity</p>
+                        <p>
+                            What we do, we do well and will always be evidence based. <br>
+                            Good work takes time, commitment and investment.
+                        </p>
+                    </div>
+    
+                    <div class="info">
+                        <div class="logo"><i class="fas fa-book"></i></div>
+                        <p id="head">Quality</p>
+                        <p>
+                            Comes first, last and always. <br>
+                            Nothing is too important that we can’t do it safely.
+                        </p>
+                    </div>
+    
+                    <div class="info">
+                        <div class="logo"><i class="fas fa-chart-line"></i>
+                        </div>
+                        <p id="head">Equity</p>
+                        <p>
+                            How we treat other people matters. <br>
+                            We are honest with each other and in the work that we do.
+                        </p>
+                    </div>
+    
+                </div>
+            </div>
+        </section>
+
+        <section class="wrapper bd-container py-3">
+            <section class="page__featured featured">
+                <div class="featured__container">
+                    <div class="featured__body">
+                        <div class="featured__content content-featured">
+                            <h2 class="featured__title title_center">Specialist Disability Accommodation</h2>
+                            <div class="content-featured__body">
+                                <!-- <h3 class="content-featured__title">Our Disability Accomodation</h3> -->
+                                <div class="content-featured__text">
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                         Deserunt quia ipsam obcaecati aliquid!.</p>
+                                </div>
+                                <div class="content-featured__options options-content-featured">
+                                    <div class="options-content-featured__item">
+                                        <div class="options-content-featured__label">Clients</div>
+                                        <div class="options-content-featured__value">Confidential</div>
+                                    </div>
+
+                                    <div class="options-content-featured__item">
+                                        <div class="options-content-featured__label">Size</div>
+                                        <div class="options-content-featured__value">1200 m2</div>
+                                    </div>
+                                    
+                                    <div class="options-content-featured__item">
+                                        <div class="options-content-featured__label">Type</div>
+                                        <div class="options-content-featured__value">Office</div>
+                                    </div>
+
+                                    <div class="options-content-featured__item">
+                                        <div class="options-content-featured__label">Status</div>
+                                        <div class="options-content-featured__value">Done</div>
+                                    </div>
+
+                                    <div class="options-content-featured__item">
+                                        <div class="options-content-featured__label">Location</div>
+                                        <div class="options-content-featured__value">Australia</div>
+                                    </div>
+
+                                    <div class="options-content-featured__item">
+                                        <div class="options-content-featured__label">Flat</div>
+                                        <div class="options-content-featured__value">8 Room</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="blog.html" class="content-featured__link">Read More</a>
+                        </div>
+
+                        <div class="featured__images images-featured">
+                            <div class="images-featured__item">
+                                <img src="assets/images/01.jpg" alt="img1">
+                            </div>
+
+                            <div class="images-featured__item images-featured__item_mini">
+                                <img src="assets/images/02.jpg" alt="img2">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+
+        <section class="h-container">
+            <div class="about-2">
+                <h1 class="about_title">Who we are</h1>
+            </div>
+    
+            <p class="lead">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
+                corporis amet cum. Lorem ipsum dolor sit amet consectetur adipisicing
+                elit. Cum similique corporis distinctio.
+            </p>
+    
+            <p class="lead">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
+                corporis amet cum. Lorem ipsum dolor sit amet consectetur adipisicing
+                elit. Cum similique corporis distinctio.
+            </p>
+    
+            <p class="lead">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
+                corporis amet cum. Lorem ipsum dolor sit amet consectetur adipisicing
+                elit. Cum similique corporis distinctio.Lorem ipsum dolor sit amet,
+                consectetur adipisicing elit. Similique corporis amet cum.
+            </p>
+            <img src="assets/images/table-desk-modern-office-with-computer-tech-generative-ai.jpg" alt="">
+        </section>
+
+        <section class="page__how how h-container py-3">
+            <div class="how__container">
+                <br>
+                <br>
+                <h1 class="how__title title-3 ">How We Work</h1>
+                <br>
+                <br>
+                <br>
+                <div class="how__items">
+                    <div class="how__item item-how item-how_1">
+                        <div class="item-how__icon"><img src="assets/images/01.svg" alt="01"></div>
+                        <div class="item-how__title">Assessment and Planning</div>
+                        <div class="item-how__text">Understanding the specific disability, needs, strengths and limitations.</div>
+                    </div>
+
+                    <div class="how__item item-how item-how_2">
+                        <div class="item-how__icon"><img src="assets/images/02.svg" alt="02"></div>
+                        <div class="item-how__title">Implementation and Support</div>
+                        <div class="item-how__text">Impllementation of support services such as therapy, medical care, personal 
+                            care, education and vocational training.</div>
+                    </div>
+
+                    <div class="how__item item-how item-how_3">
+                        <div class="item-how__icon "><img src="assets/images/03.svg" alt="03"></div>
+                        <div class="item-how__title"> Evaluation and Review </div>
+                        <div class="item-how__text">Changing of provided services due to indivudial's progress.</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about py-3">
+            <div class="about-container h-container">
+                <div class="about-content featured__body-2">
+                    <!-- <div class="about-left py"> -->
+                        <!-- <img src="assets/images/ndis.png.webp" alt=""> -->
+                    <!-- </div> -->
+                    <div class="about-right">
+                        <div class="aboutcontent ">
+                            <h1>What is the NDIS?</h1>
+                            <p>The NDIS, short for the National Disability Insurance Scheme, is an Australian government initiative designed to
+                                provide support and funding to people with disabilities</p>
+                            <p> Its goal is to empower individuals to live more independently and enhance their quality of life.</p>
+                            <p>The NDIS achieves this by offering financial assistance for necessary services and supports tailored to each
+                                participant's unique needs.</p>
+                            <p>If you have a disability, the National Disability Insurance Scheme (NDIS) could help you get the support you need to
+                                improve your skills, quality of life, and independence.</p>
+                        </div>
+                        <a href="" class="btn">Explore The NDIS</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="bd-container py-7">
+            <div class="flags h-container py-3">
+                <center>
+                    <span>
+                        <img src="assets/images/ndis.png.webp" class="olip" />
+                        <img src="assets/images/logo-bgx.png" class="olip" />
+                    </span>
+                </center>
+            </div>
+        </section>
+
+Landings
+
+            <section class=" landing">
+                <div class="lande">
+                    <div class="section__container header__container ">
+                        <div class="header__image">
+                            <img src="assets/images/services-disability-care-reading.jpg" alt="header" />
+                            <img src="assets/images/old-age.jpg" alt="header" />
+                        </div>
+                        
+                        <div class="header__content">
+                            <div>
+                                <p class="sub__header">Book Now</p>
+                                <h1>Disability and Mental Health Care Services.</h1>
+                                <p class="section__subtitle">
+                                    Welcome, Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam exercitationem debitis esse eaque libero omnis.
+                                    Vel eligendi suscipit ipsum facere, impedit cupiditate distinctio deleniti sunt. Tempore obcaecati numquam earum
+                                    repudiandae.
+                                </p>
+                                <div class="action__btns">
+                                    <a href="#services" class="btn">See Services</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="lpoi">
+                <div class="lpoi-text">
+                    <h1>Leadway Support</h1>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt eos ex rem. Lorem ipsum dolor sit amet consectetur<br>
+                        adipisicing elit. Iste minus rerum molestiae!</p>
+                    <a class="hero">Lorem ipsum dolor sit amet.</a>
+                </div>
+            </section>
+
+
+Landings
